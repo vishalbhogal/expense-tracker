@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "online-shop.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
